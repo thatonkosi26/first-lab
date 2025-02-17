@@ -1,2 +1,2 @@
-Student number: 2681888
-Name: Thato Nkosi
+Student number : 2681888
+Name : Thato Nkosi
